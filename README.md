@@ -1,7 +1,7 @@
 # Portfolio 
 > This repository can help you navigate of my projects.
 
-## React <img src="https://i.imgur.com/agg9yra.png" width="20" height="20"> + Redux  <img src="https://i.imgur.com/BlKdjZY.png" width="20" height="20">
+## React <img src="https://i.imgur.com/agg9yra.png" width="20" height="20"> + Redux  <img src="https://i.imgur.com/vNpyOhY.png" width="20" height="20">
 + Single page application
     + [Heroes-admin-panel](https://github.com/ssamarin/heroesAdminPanel) ⭐️
 
