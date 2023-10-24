@@ -1,7 +1,9 @@
 # Portfolio 
 > This repository can help you navigate of my projects.
 
-## React Projects <img src="https://i.imgur.com/agg9yra.png" width="20" height="20">
+## React <img src="https://i.imgur.com/agg9yra.png" width="20" height="20"> + Redux  <img src="https://imgur.com/a/CbvdhAI" width="20" height="20">
+
+## React <img src="https://i.imgur.com/agg9yra.png" width="20" height="20">
 + Single page application
     + [Marvel-information-portal](https://github.com/ssamarin/marvel-information-portal) ⭐️
     + [Employees-management-system](https://github.com/ssamarin/employees-management-system) ⭐️
@@ -24,7 +26,7 @@
     + [Product3D](https://github.com/ssamarin/product3D)
 
 
-## JavaScript Projects <img src="https://i.imgur.com/STb3G3u.png" width="20" height="20">
+## JavaScript <img src="https://i.imgur.com/STb3G3u.png" width="20" height="20">
 
 + Adaptive, cross-browser Sites
     + [Balcony](https://github.com/ssamarin/balcony)
