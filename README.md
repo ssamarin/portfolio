@@ -3,6 +3,7 @@
 
 ## React <img src="https://i.imgur.com/agg9yra.png" width="20" height="20"> + Redux  <img src="https://i.imgur.com/vNpyOhY.png" width="20" height="20">
 + Single page application
+    + [schedule-management-system](https://github.com/ssamarin/schedule-management-system) ⭐️
     + [Heroes-admin-panel](https://github.com/ssamarin/heroesAdminPanel) ⭐️
 
 ## React <img src="https://i.imgur.com/agg9yra.png" width="20" height="20">
