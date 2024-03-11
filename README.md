@@ -3,13 +3,14 @@
 
 ## React <img src="https://i.imgur.com/agg9yra.png" width="20" height="20"> + Redux  <img src="https://i.imgur.com/vNpyOhY.png" width="20" height="20">
 + Single page application
-    + [schedule-management-system](https://github.com/ssamarin/schedule-management-system) ⭐️
-    + [Heroes-admin-panel](https://github.com/ssamarin/heroesAdminPanel) ⭐️
+    + [Products-catalog](https://github.com/ssamarin/catalog) ⭐️
+    + [Schedule-management-system](https://github.com/ssamarin/schedule-management-system) ⭐️
+    + [Heroes-admin-panel](https://github.com/ssamarin/heroesAdminPanel)
 
 ## React <img src="https://i.imgur.com/agg9yra.png" width="20" height="20">
 + Single page application
     + [Marvel-information-portal](https://github.com/ssamarin/marvel-information-portal) ⭐️
-    + [Employees-management-system](https://github.com/ssamarin/employees-management-system) ⭐️
+    + [Employees-management-system](https://github.com/ssamarin/employees-management-system)
 
 ## Layout 🖌
 + Adaptive, cross-browser sites
@@ -38,4 +39,4 @@
     + [Picture](https://github.com/ssamarin/picture) ⭐️
     + [Food](https://github.com/ssamarin/food)
 + Console applications
-    +  [Movie_tracker](https://github.com/ssamarin/movie_tracker)
+    +  [Movie-tracker](https://github.com/ssamarin/movie_tracker)
