@@ -1,7 +1,9 @@
 # Portfolio 
 > This repository can help you navigate of my projects.
 
-## React <img src="https://i.imgur.com/agg9yra.png" width="20" height="20"> + Redux  <img src="https://i.imgur.com/vNpyOhY.png" width="20" height="20">
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://t.me/ssamar1n)
+
+## React <img src="https://i.imgur.com/agg9yra.png" width="20" height="20"> + Redux <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="20" height="20">
 + Single page application
     + [Products-catalog](https://github.com/ssamarin/catalog) ⭐️
     + [Schedule-management-system](https://github.com/ssamarin/schedule-management-system) ⭐️
